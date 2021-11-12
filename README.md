@@ -18,7 +18,7 @@
 
 🔭 I am currently working on software engineering projects at Holberton School, where I am a student.
 
-🌱 I am currently learning and developing projects with HTML, Python, Ruby, Java Scrip, Linux, data structure, low-level programming languages, modern high-level languages, databases, APIs and DevOps.
+🌱 I am currently learning and developing projects with HTML, Python, Ruby, JavaScript, Linux, data structure, low-level programming languages, modern high-level languages, databases, APIs and DevOps.
 My native language is Spanish, but I am studying English to develop better in this profession.
 
 👯 I am looking to collaborate on projects that allow me to continue developing my skills.
